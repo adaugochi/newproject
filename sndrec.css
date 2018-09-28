@@ -1,0 +1,88 @@
+body {
+	margin: 0%;
+	font-family: verdana, Geneva, Tahoma, sans-serif;
+	color: white;
+}
+.section {
+	background-color: #663399;
+	margin-top: 0%
+}
+.header {
+	background-image: url("img/micro.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-position: center;
+   	min-height: 350px;
+	overflow: hidden;
+	padding-top: 90px;
+	width: 100%;
+	text-align: center;
+}
+
+.heading {
+	margin-top: 0px;
+}
+
+button {
+	padding: 10px;  
+	border: none;
+    border-radius: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #663399;
+    color: white;
+    font-weight: bold;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+.about, .aboutstudio{
+	background-color: indigo;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	opacity: 0.8;
+}
+
+.thirddiv, .fourthdiv, .fifthdiv, .sixthdiv, .lastdiv {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 0px 100px 0px 100px;
+}
+
+.insidethirddiv {
+	float: right; 
+	font-size: 13px; 
+	padding-right: 150px;
+}
+
+#thirddivimg {
+	width: 35%; 
+	padding-left: 100px;
+}
+
+i {
+    padding: 10px;    
+}
+
+.insidefourthdiv {
+	float: right;
+	font-size: 13px;
+	padding-right: 130px;
+	
+}
+
+.insidefifthdiv {
+	float: left;
+	font-size: 13px;
+	padding-left: 95px;
+	margin-right: 80px;
+}
+
+.sixthimg {
+	width: 30%;
+	float: left;
+
+}
+
+.lastdiv {
+   padding-left: 150px;
+}
